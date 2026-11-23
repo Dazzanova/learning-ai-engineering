@@ -1,0 +1,12 @@
+(learning-ai-engineering) dazzanova@Daz:~/project/projects_for_learning/learning-ai-engineering$ uv run python fundamentals/api_call.py
+
+
+Anthropic is a **private company**, which means it does not have a public stock price or a ticker symbol on public stock exchanges like the NASDAQ or NYSE. You cannot buy shares of Anthropic through a standard brokerage account.
+
+However, here is some context on its financial standing and valuation:
+
+* **Valuation:** In its most recent funding rounds (late 2023 / early 2024), Anthropic was valued at between **$15 billion and $18 billion**.
+* **Major Investors:** The company has raised billions from major tech companies, including **Amazon** (which has invested up to $4 billion) and **Google** (Alphabet).
+* **Indirect Exposure:** Because Anthropic is private, some retail investors gain indirect exposure to the company by investing in its major corporate backers, such as Amazon (NASDAQ: AMZN) or Alphabet (NASDAQ: GOOGL).
+* **Secondary Markets:** Shares may occasionally trade on private secondary markets (like Forge Global or EquityZen) for accredited investors, but there is no standardized public share price.
+(learning-ai-engineering) dazzanova@Daz:~/project/projects_for_learning/learning-ai-engineering$
